@@ -240,22 +240,22 @@ if(isset($_SESSION['usertype']) && $_SESSION['usertype'] != 'employee'){
                                 <div id="submenu-2" class="collapse submenu">
                                     <ul class="nav flex-column">
                                         <li class="nav-item">
-                                            <a class="nav-link" href="pages/cards.html">Cards <span class="badge badge-secondary">New</span></a>
+                                            <a class="nav-link" href="talent/index.php">Dashboard<span class="badge badge-secondary">New</span></a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="pages/general.html">General</a>
+                                            <a class="nav-link" href="talent/recruitment.php">Recruitment</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="pages/carousel.html">Carousel</a>
+                                            <a class="nav-link" href="talent/onboarding.php">Onboarding</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="pages/listgroup.html">Group</a>
+                                            <a class="nav-link" href="talent/talentretention.php">Talent Retention</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="pages/typography.html">Typography</a>
+                                            <a class="nav-link" href="talent/succession.php">Succession Planning</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="pages/accordions.html">Accordions</a>
+                                            <a class="nav-link" href="talent/career.php">Career Development</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="pages/tabs.html">Tabs</a>
